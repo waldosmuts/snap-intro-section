@@ -3,7 +3,6 @@ import SnapLogo from "../images/logo.svg"
 import OpenNav from "../images/icon-menu.svg"
 import CloseNav from "../images/icon-close-menu.svg"
 import ArrowDown from "../images/icon-arrow-down.svg"
-import ArrowUp from "../images/icon-arrow-up.svg"
 // Nav Icons
 import TodoIcon from "../images/icon-todo.svg"
 import CalendarIcon from "../images/icon-calendar.svg"
